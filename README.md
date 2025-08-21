@@ -1,2 +1,3 @@
-# bindiff-binexprt-ida-bninja
-BinDiff and BinExport for IDA 9.1 and Binary Ninja 5
+# BinDiff and BinExport plugins for IDA and Binary Ninja
+
+Compiled from latest source (21.8.2025) - IDA 9.1 and BinaryNinja 5
